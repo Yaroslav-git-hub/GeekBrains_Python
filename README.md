@@ -1,2 +1,3 @@
+# Знакомство с языком Python 
+
 >## GeekBrains_Python
-# -> Знакомство с языком Python 
